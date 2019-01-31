@@ -1,3 +1,4 @@
 chuleta william->osmel->mi primera rama
 Modificaciones para probar funcionamiento de Merge Automatico
 Prueba de modificar contenido y verificar en git status
+4 nueva linea
